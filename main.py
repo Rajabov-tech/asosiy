@@ -12,8 +12,8 @@ from PIL import Image
 from io import BytesIO
 
 # --- CONFIGURATION: SEN BU YERGA O'Z TOKENLARINGNI JOYLASHING ---
-TELEGRAM_BOT_TOKEN = "8345898900:AAEP4TOdejAmqa7A3s-hCqMJO55CG0ecugI"
-OPENAI_API_KEY = "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"
+TELEGRAM_BOT_TOKEN = ""
+OPENAI_API_KEY = ""
 # --------------------------------------------------------------
 
 # logging
